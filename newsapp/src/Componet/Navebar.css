@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    align-items: center;
+  justify-content: space-around;
+  height: 50px;
+  background-color:lightcoral;
+}
+header>ul{
+    
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+    
+}
+header>ul>li>a{
+    
+  text-decoration: none;
+  padding: 20px;
+    
+}
